@@ -1,4 +1,4 @@
-import pytest
+import pytest #type: ignore
 from lib.music_library import MusicLibrary
 from unittest.mock import Mock
 """
